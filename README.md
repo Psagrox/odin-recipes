@@ -1,0 +1,1 @@
+This project is a basic application of my knowledge in HTML acquiered in the Odin project, the purpose of this project is to create a recipe website using all the HTML elements that I saw in the course.
